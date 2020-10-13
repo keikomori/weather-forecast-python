@@ -10,8 +10,8 @@ import urllib.parse
 
 from requests.packages import urllib3
 
-accuweatherAPIKey = 'gtpfuNuhkm2ZO13Oliw5gat863qKJvAR'
-mapboxToken = 'pk.eyJ1IjoidGF0aWFueW1vcmlqaW1pcm9ibyIsImEiOiJja2c3eHloNDQwYnR3MzBydzkzbm9tcmo3In0.B617QxG-22Lmr6qLlTi4Dg'
+accuweatherAPIKey = 'APIKEY'
+mapboxToken = 'TOKEN'
 days_week = ["Domingo", "Segunda-feira", "Terça-feira", "Quarta-feira", "Quinta-feira", "Sexta-feira", "Sábado"]
 
 def getCoords():
